@@ -16,7 +16,6 @@
         Splitting();
         let titleWrapper = document.querySelector(".title-wrapper");
         let chars = document.querySelectorAll('.char');
-        console.log(chars)
 
         gsap.registerPlugin(ScrollTrigger)
         

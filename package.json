@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "gsap": "^3.11.5",
+    "scrollmagic": "^2.0.8",
     "splitting": "^1.0.6"
   }
 }
